@@ -20,6 +20,7 @@
   <img align="center" alt="Google Cloud" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Telegram" target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <img align="center" alt="WhatsApp" target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img align="right" alt="Avatar" height="350" width="400" src="https://github.com/guilhermecaldeira2/guilhermecaldeira2/blob/main/avatar.png">
 </div>
 
 #### 🧐 I’m currently learning
