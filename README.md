@@ -7,7 +7,7 @@
 
 <div>
   <a href="beacons.page/guilhermecaldeira2">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?    username=guilhermecaldeira2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermecaldeira2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermecaldeira2&layout=compact&langs_count=16&theme=highcontrast"/>
   </a>
 </div>
