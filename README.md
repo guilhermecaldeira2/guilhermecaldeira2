@@ -32,7 +32,7 @@
 </div>
 
 #### About me
-- 💻 I have a startup <a href="https://estalajadeiro.net" target="_blank"><img height="48" width="48" align="center" src="https://storage.googleapis.com/public-estalajadeiro-net/logos/estalajadeiro.png" target="_blank"></a>
+- <a href="https://estalajadeiro.net" target="_blank">💻 I have a startup <img height="48" width="48" align="center" src="https://storage.googleapis.com/public-estalajadeiro-net/logos/estalajadeiro.png" target="_blank"></a>
 - 💁‍♀️ I love my fiancee
 - 🐶 We have a dog
 - 📈 My hobbies are stock exchange, code and gaming
