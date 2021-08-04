@@ -20,7 +20,7 @@
   <img align="center" alt="Google Cloud" height="48" width="48" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Telegram" target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   <img align="center" alt="WhatsApp" target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  <img align="right" alt="Avatar" height="350" width="400" src="https://github.com/guilhermecaldeira2/guilhermecaldeira2/blob/main/avatar.png">
+  <img align="right" alt="Avatar" height="350" width="450" src="https://github.com/guilhermecaldeira2/guilhermecaldeira2/blob/main/avatar.png">
 </div>
 
 #### 🧐 I’m currently learning
@@ -32,7 +32,7 @@
 </div>
 
 #### About me
-- 🧑‍💻 I have a startup <a href="https://estalajadeiro.net" target="_blank"><img height="48" width="48" align="center" src="https://storage.googleapis.com/public-estalajadeiro-net/logos/estalajadeiro.png" target="_blank"></a>
+- 💻 I have a startup <div><a href="https://estalajadeiro.net" target="_blank"><img height="48" width="48" align="center" src="https://storage.googleapis.com/public-estalajadeiro-net/logos/estalajadeiro.png" target="_blank"></a></div>
 - 💁‍♀️ I love my fiancee
 - 🐶 We have a dog
 - 📈 My hobbies are stock exchange, code and gaming
